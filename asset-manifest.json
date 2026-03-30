@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/simulatore-fiscale/static/css/main.854aa5d9.css",
-    "main.js": "/simulatore-fiscale/static/js/main.78e23977.js",
+    "main.js": "/simulatore-fiscale/static/js/main.2f69d913.js",
     "static/js/453.5c01d092.chunk.js": "/simulatore-fiscale/static/js/453.5c01d092.chunk.js",
     "index.html": "/simulatore-fiscale/index.html",
     "main.854aa5d9.css.map": "/simulatore-fiscale/static/css/main.854aa5d9.css.map",
-    "main.78e23977.js.map": "/simulatore-fiscale/static/js/main.78e23977.js.map",
+    "main.2f69d913.js.map": "/simulatore-fiscale/static/js/main.2f69d913.js.map",
     "453.5c01d092.chunk.js.map": "/simulatore-fiscale/static/js/453.5c01d092.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.854aa5d9.css",
-    "static/js/main.78e23977.js"
+    "static/js/main.2f69d913.js"
   ]
 }
